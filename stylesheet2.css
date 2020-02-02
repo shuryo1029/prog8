@@ -4,9 +4,9 @@ h1{
   margin:0 auto;
 }
 a{
-  width:200px;
-  font-size:15px;
+  width:280px;
+  font-size:25px;
   display:block; 
-  margin:15px 0;
-  border:3px #000 dashed;
+  margin:35px 0;
+  border:1px #000 solid;
 }

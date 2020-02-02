@@ -1,5 +1,12 @@
 h1{
   color:red;
-  font-size:80px;
+  font-size:60px;
   margin:0 auto;
+}
+a{
+  width:200px;
+  font-size:15px;
+  display:block; 
+  margin:15px 0;
+  border:3px #000 dashed;
 }
